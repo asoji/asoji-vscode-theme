@@ -3,6 +3,14 @@
     "displayName": "asoji-vscode-theme",
     "description": "my dumb theme for vscode",
     "version": "0.0.1",
+    "license": "MIT",
+    "author": {
+        "name": "asojidev"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/asoji/asoji-vscode-theme.git"
+    },
     "engines": {
         "vscode": "^1.67.0"
     },
